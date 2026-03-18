@@ -57,8 +57,8 @@ src/main/resources
 
 ## 👨‍💻 Author
 
-**Piyush Kumar Singh**
+**Rahul Kumar**
 Java Full Stack Developer
 
-Email: [piyushsingh4834@gmail.com](mailto:piyushsingh4834@gmail.com)
+Email: [kumarrahul815317@gmail.com](mailto:kumarrahul815317@gmail.com)
 Location: Bangalore, India
