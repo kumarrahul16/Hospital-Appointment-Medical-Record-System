@@ -44,7 +44,7 @@ src/main/resources
 ## ⚙️ Setup Instructions
 
 1. Clone the repository
-   git clone https://github.com/piyushsingh48/Hospital-Management-System-SpringBoot.git
+   git clone https://github.com/kumarrahul16/Hospital-Appointment-Medical-Record-System.git
 
 2. Import the project into Eclipse 
 
